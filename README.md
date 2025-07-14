@@ -23,7 +23,9 @@ A simple Jetpack Compose app to demonstrate:
 
 ## 📷 Screenshots
 
-*You can add screenshots here later*
+| Home Screen                        | Dark Mode                          |
+|------------------------------------|------------------------------------|
+| ![Screen 1](images/light_mode.png) | ![Screen 2](images/dark_mode.png) |
 
 ## 🚀 Getting Started
 
